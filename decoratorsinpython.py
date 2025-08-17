@@ -13,7 +13,7 @@ hi()
 @greet
 def add():
     x = int(input("Enter a num: "))
-    y = int(input('Enter a num: '))
+    y = int(input("Enter a num: "))
     print(x+y)
 
 print(add())
